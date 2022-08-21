@@ -1,17 +1,17 @@
 {
 "bestSellers":[
 {"img":"https://images.dominos.co.in/Corn.jpg","title":"Corn n Cheese Paratha Pizza","description":"A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza."},
-{"img":"https://images.dominos.co.in/Paneer.jpg","title":"Paneer Paratha Pizza","description":"An epic fusion of paratha and pizza with melting cheese & soft paneer fillings to satisfy all your indulgent"},
-{"img":"https://images.dominos.co.in/Keema.jpg","title":"Chicken Keema Paratha Pizza","description":"Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!"}
+{"img":"https://images.dominos.co.in/PIZ0171.jpg","title":"Paneer Paratha Pizza","description":"An epic fusion of paratha and pizza with melting cheese & soft paneer fillings to satisfy all your indulgent"},
+{"img":"https://images.dominos.co.in/farmhouse.png","title":"Chicken Keema Paratha Pizza","description":"Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!"}
 ],
 "newLaunches":[
-{"img":"","title":"","description":""},
-{"img":"","title":"","description":""},
-{"img":"","title":"","description":""}
+{"img":"https://images.dominos.co.in/PIZ5157_1.jpg","title":"Spiced Double Chicken","description":"Delightful combination of our spicy duo- Pepper Barbecue Chicken and Peri Peri Chicken for Chicken Lovers."},
+{"img":"https://images.dominos.co.in/PIZ5160_1.jpg","title":"ndo Fusion Chicken Pizza","description":"Relish the fusion of 5 of your favorite chicken toppings - Peri Peri Chicken, Chicken Pepperoni, Chicken Tikka,"},
+{"img":"https://images.dominos.co.in/PIZ0170.jpg","title":"The Cheese Dominator","description":"Loaded with 1 Pound of Mozzarella and gooey Liquid Cheese on a Classic Large Pizza topped with a generous"}
 ],
 "vegPizzas":[
-{"img":"","title":"","description":""},
-{"img":"","title":"","description":""},
-{"img":"","title":"","description":""}
+{"img":"https://images.dominos.co.in/CreamyTomatoPPVG.jpg","title":"Creamy Tomato Pasta Pizza - Veg","description":"Loaded with a delicious creamy tomato pasta topping , green capsicum, crunchy red and yellow bell peppers"},
+{"img":"https://images.dominos.co.in/new_margherita_2502.jpg","title":"Margherita","description":"Classic delight with 100% real mozzarella cheese"},
+{"img":"https://images.dominos.co.in/new_peppy_paneer.jpg","title":"Peppy Paneer","description":"Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika"}
 ]
 }
