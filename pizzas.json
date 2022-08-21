@@ -1,15 +1,15 @@
 {
-"best-sellers":[
+"bestSellers":[
 {"img":"https://images.dominos.co.in/Corn.jpg","title":"Corn n Cheese Paratha Pizza","description":"A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza."},
 {"img":"https://images.dominos.co.in/Paneer.jpg","title":"Paneer Paratha Pizza","description":"An epic fusion of paratha and pizza with melting cheese & soft paneer fillings to satisfy all your indulgent"},
 {"img":"https://images.dominos.co.in/Keema.jpg","title":"Chicken Keema Paratha Pizza","description":"Flavourful & meaty chicken keema paratha and goodness of cheesy pizza coming together in an epic crossover!"}
 ],
-"new-launches":[
+"newLaunches":[
 {"img":"","title":"","description":""},
 {"img":"","title":"","description":""},
 {"img":"","title":"","description":""}
 ],
-"veg-pizzas":[
+"vegPizzas":[
 {"img":"","title":"","description":""},
 {"img":"","title":"","description":""},
 {"img":"","title":"","description":""}
